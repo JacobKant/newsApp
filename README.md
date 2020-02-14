@@ -11,3 +11,6 @@
 webview с новостью (ссылка приходит в самой новости)
 
 Dagger 2, retrofit, rxjava, picasso, mvp
+
+![app screen2](/forReadme/1.png)
+![app screen1](/forReadme/2.png)
