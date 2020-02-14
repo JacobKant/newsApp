@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">US News</string>
+    <string name="category_select_label">Category</string>
+</resources>
